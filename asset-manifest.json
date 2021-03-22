@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/css/main.df704ac2.chunk.css",
+    "main.js": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/js/main.4f01ecf8.chunk.js",
+    "main.js.map": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/js/main.4f01ecf8.chunk.js.map",
+    "runtime-main.js": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/js/runtime-main.9255689d.js",
+    "runtime-main.js.map": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/js/runtime-main.9255689d.js.map",
+    "static/js/2.78eba038.chunk.js": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/js/2.78eba038.chunk.js",
+    "static/js/2.78eba038.chunk.js.map": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/js/2.78eba038.chunk.js.map",
+    "index.html": "/MilicaBoskic/App-HogarAnimal-ENG.git/index.html",
+    "precache-manifest.7761b6ff617f587168bda48a04d75e9f.js": "/MilicaBoskic/App-HogarAnimal-ENG.git/precache-manifest.7761b6ff617f587168bda48a04d75e9f.js",
+    "service-worker.js": "/MilicaBoskic/App-HogarAnimal-ENG.git/service-worker.js",
+    "static/css/main.df704ac2.chunk.css.map": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/css/main.df704ac2.chunk.css.map",
+    "static/js/2.78eba038.chunk.js.LICENSE.txt": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/js/2.78eba038.chunk.js.LICENSE.txt",
+    "static/media/animals.png": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/media/animals.1d31cd6d.png",
+    "static/media/catBox1.jpg": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/media/catBox1.34c9f605.jpg",
+    "static/media/catBox2.jpg": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/media/catBox2.c66355aa.jpg",
+    "static/media/catFood.jpg": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/media/catFood.e1fee0f0.jpg",
+    "static/media/coverdog.jpg": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/media/coverdog.291432d8.jpg",
+    "static/media/dog.png": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/media/dog.16683b7f.png",
+    "static/media/index.css": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/media/perroo.df2d9d35.jpg",
+    "static/media/dogBlackWhite.jpg": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/media/dogBlackWhite.7616ab07.jpg",
+    "static/media/dogCover.jpg": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/media/dogCover.b2c48499.jpg",
+    "static/media/dogCover3.jpg": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/media/dogCover3.def2a159.jpg",
+    "static/media/dogImg.jpg": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/media/dogImg.9c0fb9db.jpg",
+    "static/media/dogImg2.png": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/media/dogImg2.e6dab67b.png",
+    "static/media/gat.jpg": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/media/gat.b95c9552.jpg",
+    "static/media/gato1.jpg": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/media/gato1.63b5dc14.jpg",
+    "static/media/gato2.jpg": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/media/gato2.69dd7dd2.jpg",
+    "static/media/gato4.jpg": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/media/gato4.54a9e4d3.jpg",
+    "static/media/gatonegro.jpg": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/media/gatonegro.51d24585.jpg",
+    "static/media/perro.jpg": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/media/perro.1cc86520.jpg",
+    "static/media/pets.png": "/MilicaBoskic/App-HogarAnimal-ENG.git/static/media/pets.3d07da40.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9255689d.js",
+    "static/js/2.78eba038.chunk.js",
+    "static/css/main.df704ac2.chunk.css",
+    "static/js/main.4f01ecf8.chunk.js"
+  ]
+}
