@@ -17,7 +17,7 @@
 
 - There is a 'Scroll to top' button in the footer that allows user to scroll to the top of the page.
 
-<br>
+<hr>
 
 -Router:
 
